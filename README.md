@@ -37,7 +37,7 @@
 
 ## Contributing
 
-Your contributions are always welcome! Please read the [contribution guidelines](contributing.md) first.
+Your contributions are always welcome! Please read the [contribution guidelines](https://github.com/ipudu/awesome-molecular-dynamics/blob/master/contributing.md) first.
 
 ## License
 
