@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://awesomemd.science">
-    <img alt="Awesome Molecular Dynamics" src="./docs/assets/images/md.png" width="50%" height="50%">
+    <img alt="Awesome Molecular Dynamics" src="https://awesomemd.science/assets/images/md.png" width="50%" height="50%">
   </a>
 </p>
 
@@ -41,6 +41,6 @@ Your contributions are always welcome! Please read the [contribution guidelines]
 
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
 
 To the extent possible under law, [Pu Du](https://github.com/ipudu) has waived all copyright and related or neighboring rights to this work.
