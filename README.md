@@ -1,25 +1,37 @@
 <p align="center">
-  <a href="https://awesomemd.science">
-    <img alt="Awesome Molecular Dynamics" src="https://awesomemd.science/assets/images/md.png" width="50%" height="50%">
+  <a href="https://awesome-md.com">
+    <img alt="Awesome Molecular Dynamics" src="https://awesome-md.com/assets/images/md.png" width="50%" height="50%">
   </a>
 </p>
 
 # Awesome Molecular Dynamics 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/ipudu)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub stars](https://img.shields.io/github/stars/ipudu/awesome-molecular-dynamics.svg?style=social&label=Stars)](https://github.com/ipudu/awesome-molecular-dynamics/stargazers) [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/ipudu)
+
 
 > A curated list of awesome Molecular Dynamics libraries, tools and software.
 
 ## Table of Contents
 
++ [Books](#books)
++ [Courses](#courses)
 + [MD engines](#md-engines)
 + [Trajectory Analysis](#trajectory-analysis)
 + [Visualization Tools](#visualization-tools)
+
+## Books
+
+* [Understanding Molecular Simulation: From Algorithms to Applications](https://www.amazon.com/Understanding-Molecular-Simulation-Second-Computational/dp/0122673514/ref=sr_1_1?ie=UTF8&qid=1530897897&sr=8-1&keywords=understanding+molecular+simulation) - Molecular simulation bible.
+
+## Courses
+
+* [Molecular Simulations](http://www.pages.drexel.edu/~cfa22/msim/msim.html) - An awesome introduction class to molecular simulations taught by Prof. Cameron Abrams at Drexel University.
 
 ## MD Engines
 
 * [Gromacs](http://www.gromacs.org/) - A molecular dynamics package mainly designed for simulations of proteins, lipids and nucleic acids.
 * [LAMMPS](http://lammps.sandia.gov/) - A classical molecular dynamics code, and an acronym for Large-scale Atomic/Molecular Massively Parallel Simulator.
 * [OpenMM](http://openmm.org/) - A toolkit for molecular simulation using high performance GPU code.
+* [Tinker](https://dasher.wustl.edu/tinker/) - A complete and general package for molecular mechanics and dynamics, with some special features for biopolymers.
 
 
 ## Trajectory Analysis
