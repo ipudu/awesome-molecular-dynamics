@@ -5,7 +5,8 @@
 </p>
 
 # Awesome Molecular Dynamics 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/ipudu)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub stars](https://img.shields.io/github/stars/ipudu/awesome-molecular-dynamics.svg?style=social&label=Stars)](https://github.com/ipudu/awesome-molecular-dynamics/stargazers) [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/ipudu)
+
 
 > A curated list of awesome Molecular Dynamics libraries, tools and software.
 
