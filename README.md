@@ -43,4 +43,4 @@ Your contributions are always welcome! Please read the [contribution guidelines]
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
 
-To the extent possible under law, [Pu Du](https://github.com/ipudu) has waived all copyright and related or neighboring rights to this work.
+This work is is licensed under the Creative Commons Zero v1.0 Universal.
