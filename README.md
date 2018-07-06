@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://awesomemd.science">
+    <img alt="blackbox" src="./md.png" width="50%" height="50%">
+  </a>
+</p>
+
 # Awesome Molecular Dynamics
 
 A curated list of awesome Molecular Dynamics libraries, tools and software.
