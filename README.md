@@ -12,10 +12,15 @@
 
 ## Table of Contents
 
++ [Books](#books)
 + [Courses](#courses)
 + [MD engines](#md-engines)
 + [Trajectory Analysis](#trajectory-analysis)
 + [Visualization Tools](#visualization-tools)
+
+## Books
+
+* [Understanding Molecular Simulation: From Algorithms to Applications](https://www.amazon.com/Understanding-Molecular-Simulation-Second-Computational/dp/0122673514/ref=sr_1_1?ie=UTF8&qid=1530897897&sr=8-1&keywords=understanding+molecular+simulation) - Molecular simulation bible.
 
 ## Courses
 
