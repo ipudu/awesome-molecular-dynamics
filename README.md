@@ -4,7 +4,8 @@
   </a>
 </p>
 
-# Awesome Molecular Dynamics [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Molecular Dynamics 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/ipudu)
 
 > A curated list of awesome Molecular Dynamics libraries, tools and software.
 
