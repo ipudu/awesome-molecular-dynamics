@@ -31,6 +31,7 @@
 * [Gromacs](http://www.gromacs.org/) - A molecular dynamics package mainly designed for simulations of proteins, lipids and nucleic acids.
 * [LAMMPS](http://lammps.sandia.gov/) - A classical molecular dynamics code, and an acronym for Large-scale Atomic/Molecular Massively Parallel Simulator.
 * [OpenMM](http://openmm.org/) - A toolkit for molecular simulation using high performance GPU code.
+* [Tinker](https://dasher.wustl.edu/tinker/) - A complete and general package for molecular mechanics and dynamics, with some special features for biopolymers.
 
 
 ## Trajectory Analysis
