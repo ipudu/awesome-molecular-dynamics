@@ -12,9 +12,14 @@
 
 ## Table of Contents
 
++ [Courses](#courses)
 + [MD engines](#md-engines)
 + [Trajectory Analysis](#trajectory-analysis)
 + [Visualization Tools](#visualization-tools)
+
+## Courses
+
+* [Molecular Simulations](http://www.pages.drexel.edu/~cfa22/msim/msim.html) - An awesome introduction class to molecular simulations taught by Prof. Cameron Abrams at Drexel University.
 
 ## MD Engines
 
