@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://awesomemd.science">
-    <img alt="blackbox" src="./md.png" width="50%" height="50%">
+    <img alt="blackbox" src="https://raw.githubusercontent.com/ipudu/awesome-molecular-dynamics/master/md.png" width="50%" height="50%">
   </a>
 </p>
 
