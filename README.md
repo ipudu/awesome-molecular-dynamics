@@ -37,14 +37,21 @@
 * [Molecular Simulations](http://www.pages.drexel.edu/~cfa22/msim/msim.html) - An awesome introduction class to molecular simulations taught by Prof. Cameron Abrams at Drexel University.
 
 ## MD Engines
-* [Amber](http://ambermd.org/) - A suite of biomolecular simulation programs.
-* [Gromacs](http://www.gromacs.org/) - A molecular dynamics package mainly designed for simulations of proteins, lipids and nucleic acids.
+* [Amber](http://ambermd.org/) - A suite of biomolecular simulation programs. [:octocat:][amber-code][:book:][amber-doc]
+* [Gromacs](http://www.gromacs.org/) - A molecular dynamics package mainly designed for simulations of proteins, lipids and nucleic acids. [:octocat:][gromacs-code][:book:][gromacs-doc]
 * [LAMMPS](http://lammps.sandia.gov/) - A classical molecular dynamics code, and an acronym for Large-scale Atomic/Molecular Massively Parallel Simulator. [:octocat:][lammps-code][:book:][lammps-doc]
-* [OpenMM](http://openmm.org/) - A toolkit for molecular simulation using high performance GPU code.
-* [Tinker](https://dasher.wustl.edu/tinker/) - A complete and general package for molecular mechanics and dynamics, with some special features for biopolymers.
+* [OpenMM](http://openmm.org/) - A toolkit for molecular simulation using high performance GPU code. [:octocat:][openmm-code][:book:][openmm-doc]
+* [Tinker](https://dasher.wustl.edu/tinker/) - A complete and general package for molecular mechanics and dynamics, with some special features for biopolymers. [:octocat:][tinker-code][:book:][tinker-doc]
 
+[amber-doc]: http://ambermd.org/doc12/Amber16.pdf
+[gromacs-code]: https://github.com/gromacs/gromacs
+[gromacs-doc]: http://manual.gromacs.org/documentation/
 [lammps-code]: https://github.com/lammps/lammps
 [lammps-doc]: http://lammps.sandia.gov/doc/Manual.html
+[openmm-code]:https://github.com/pandegroup/openmm
+[openmm-doc]:http://openmm.org/documentation.html
+[tinker-code]: https://github.com/TinkerTools/tinker
+[tinker-doc]:https://dasher.wustl.edu/tinker/downloads/guide.pdf
 
 ## Trajectory Analysis
 
