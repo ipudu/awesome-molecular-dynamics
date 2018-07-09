@@ -10,6 +10,11 @@
 
 > A curated list of awesome Molecular Dynamics libraries, tools and software.
 
+
+## Emoji Key
+* code: :octocat:
+* documentation: 📖
+
 ## Table of Contents
 
 + [Books](#books)
