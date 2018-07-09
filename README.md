@@ -27,7 +27,7 @@
 * [Molecular Simulations](http://www.pages.drexel.edu/~cfa22/msim/msim.html) - An awesome introduction class to molecular simulations taught by Prof. Cameron Abrams at Drexel University.
 
 ## MD Engines
-
+* [Amber](http://ambermd.org/) - A suite of biomolecular simulation programs.
 * [Gromacs](http://www.gromacs.org/) - A molecular dynamics package mainly designed for simulations of proteins, lipids and nucleic acids.
 * [LAMMPS](http://lammps.sandia.gov/) - A classical molecular dynamics code, and an acronym for Large-scale Atomic/Molecular Massively Parallel Simulator.
 * [OpenMM](http://openmm.org/) - A toolkit for molecular simulation using high performance GPU code.

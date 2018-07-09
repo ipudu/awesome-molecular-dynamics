@@ -3,6 +3,9 @@
 - Books
 - Courses
 - MD Engines
+  - [Awesome Gromacs](md-engines/awesome-gromacs.md)
   - [Awesome LAMMPS](md-engines/awesome-lammps.md)
+  - [Awesome OpenMM](md-engines/awesome-openmm.md)
+  - [Awesome Tinker](md-engines/awesome-tinker.md)
 - Trajectory Analysis
 - Visualization Tools
