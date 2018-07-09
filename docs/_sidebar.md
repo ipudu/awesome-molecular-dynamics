@@ -1,2 +1,8 @@
 - Awesome Molecular Dynamics
   - [Overview](README.md)
+- Books
+- Courses
+- MD Engines
+  - [Awesome LAMMPS](md-engines/awesome-lammps.md)
+- Trajectory Analysis
+- Visualization Tools
