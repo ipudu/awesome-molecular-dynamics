@@ -26,7 +26,11 @@
 
 ## Books
 
-* [Understanding Molecular Simulation: From Algorithms to Applications](https://www.amazon.com/Understanding-Molecular-Simulation-Second-Computational/dp/0122673514/ref=sr_1_1?ie=UTF8&qid=1530897897&sr=8-1&keywords=understanding+molecular+simulation) - Molecular simulation bible.
+* [Computer Simulation of Liquids](https://www.amazon.com/Computer-Simulation-Liquids-Michael-Allen/dp/0198803206) - A classic book on molecular dynamics and Monte Carlo simulations of liquids. [:octocat:][csol-code]
+* [Understanding Molecular Simulation: From Algorithms to Applications](https://www.amazon.com/Understanding-Molecular-Simulation-Second-Computational/dp/0122673514/ref=sr_1_1?ie=UTF8&qid=1530897897&sr=8-1&keywords=understanding+molecular+simulation) - Molecular simulation bible. [:octocat:][ums-code]
+
+[csol-code]: https://github.com/Allen-Tildesley/examples
+[ums-code]: http://www.acmm.nl/molsim/frenkel_smit/README.html
 
 ## Courses
 
