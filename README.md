@@ -37,7 +37,7 @@
 * [Molecular Simulations](http://www.pages.drexel.edu/~cfa22/msim/msim.html) - An awesome introduction class to molecular simulations taught by Prof. Cameron Abrams at Drexel University.
 
 ## MD Engines
-* [Amber](http://ambermd.org/) - A suite of biomolecular simulation programs. [:octocat:][amber-code][:book:][amber-doc]
+* [Amber](http://ambermd.org/) - A suite of biomolecular simulation programs. [:book:][amber-doc]
 * [Gromacs](http://www.gromacs.org/) - A molecular dynamics package mainly designed for simulations of proteins, lipids and nucleic acids. [:octocat:][gromacs-code][:book:][gromacs-doc]
 * [LAMMPS](http://lammps.sandia.gov/) - A classical molecular dynamics code, and an acronym for Large-scale Atomic/Molecular Massively Parallel Simulator. [:octocat:][lammps-code][:book:][lammps-doc]
 * [OpenMM](http://openmm.org/) - A toolkit for molecular simulation using high performance GPU code. [:octocat:][openmm-code][:book:][openmm-doc]
@@ -62,9 +62,14 @@
 
 ## Visualization Tools
 
-* [Avogadro](https://avogadro.cc/) - An advanced molecule editor and visualizer designed for cross-platform use in computational chemistry, molecular modeling, bioinformatics, materials science, and related areas.
-* [VMD](http://www.ks.uiuc.edu/Research/vmd/) - A molecular visualization program for displaying, animating, and analyzing large biomolecular systems using 3-D graphics and built-in scripting.
-* [PyMOL](https://pymol.org/2/) - A user-sponsored molecular visualization system on an open-source foundation, maintained and distributed by Schrödinger.
+* [Avogadro](https://avogadro.cc/) - An advanced molecule editor and visualizer designed for cross-platform use in computational chemistry, molecular modeling, bioinformatics, materials science, and related areas. [:octocat:][avogadro-code][:book:][avogadro-doc]
+* [VMD](http://www.ks.uiuc.edu/Research/vmd/) - A molecular visualization program for displaying, animating, and analyzing large biomolecular systems using 3-D graphics and built-in scripting. [:book:][vmd-doc]
+* [PyMOL](https://pymol.org/2/) - A user-sponsored molecular visualization system on an open-source foundation, maintained and distributed by Schrödinger. [:book:][pymol-doc]
+
+[avogadro-code]: https://github.com/cryos/avogadro
+[avogadro-doc]: https://avogadro.cc/docs/
+[vmd-doc]: http://www.ks.uiuc.edu/Research/vmd/current/docs.html
+[pymol-doc]: http://pymol.sourceforge.net/newman/userman.pdf
 
 ## Contributing
 
