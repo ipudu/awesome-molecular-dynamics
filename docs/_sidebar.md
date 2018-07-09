@@ -1,2 +1,2 @@
-- Getting Started
+- Awesome Molecular Dynamics
   - [Overview](README.md)
