@@ -34,7 +34,8 @@
 
 ## Courses
 
-* [Molecular Simulations](http://www.pages.drexel.edu/~cfa22/msim/msim.html) - An awesome introduction class to molecular simulations taught by Prof. Cameron Abrams at Drexel University.
+* [Molecular Simulations](http://www.pages.drexel.edu/~cfa22/msim/msim.html) - An awesome introduction class to molecular simulations.
+* [Principles of modern molecular simulation methods](https://engineering.ucsb.edu/~shell/che210d/) - A course focuses on molecular simulation concepts, algorithms and tools.
 
 ## MD Engines
 * [Amber](http://ambermd.org/) - A suite of biomolecular simulation programs. [:book:][amber-doc]
