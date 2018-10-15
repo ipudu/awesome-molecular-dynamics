@@ -39,7 +39,7 @@
 
 ## MD Engines
 * [Amber](http://ambermd.org/) - A suite of biomolecular simulation programs. [:book:][amber-doc]
-* [CHARMM](https://www.charmm.org/) - A suite of biomolecular simulation programs. [:book:][charmm-doc]
+* [CHARMM](https://www.charmm.org/) - A molecular simulation program with broad application to many-particle systems. [:book:][charmm-doc]
 * [Gromacs](http://www.gromacs.org/) - A molecular dynamics package mainly designed for simulations of proteins, lipids and nucleic acids. [:octocat:][gromacs-code][:book:][gromacs-doc]
 * [LAMMPS](http://lammps.sandia.gov/) - A classical molecular dynamics code, and an acronym for Large-scale Atomic/Molecular Massively Parallel Simulator. [:octocat:][lammps-code][:book:][lammps-doc]
 * [OpenMM](http://openmm.org/) - A toolkit for molecular simulation using high performance GPU code. [:octocat:][openmm-code][:book:][openmm-doc]
