@@ -39,12 +39,14 @@
 
 ## MD Engines
 * [Amber](http://ambermd.org/) - A suite of biomolecular simulation programs. [:book:][amber-doc]
+* [CHARMM](https://www.charmm.org/) - A suite of biomolecular simulation programs. [:book:][charmm-doc]
 * [Gromacs](http://www.gromacs.org/) - A molecular dynamics package mainly designed for simulations of proteins, lipids and nucleic acids. [:octocat:][gromacs-code][:book:][gromacs-doc]
 * [LAMMPS](http://lammps.sandia.gov/) - A classical molecular dynamics code, and an acronym for Large-scale Atomic/Molecular Massively Parallel Simulator. [:octocat:][lammps-code][:book:][lammps-doc]
 * [OpenMM](http://openmm.org/) - A toolkit for molecular simulation using high performance GPU code. [:octocat:][openmm-code][:book:][openmm-doc]
 * [Tinker](https://dasher.wustl.edu/tinker/) - A complete and general package for molecular mechanics and dynamics, with some special features for biopolymers. [:octocat:][tinker-code][:book:][tinker-doc]
 
 [amber-doc]: http://ambermd.org/doc12/Amber16.pdf
+[charmm-doc]: https://www.charmm.org/charmm/documentation/
 [gromacs-code]: https://github.com/gromacs/gromacs
 [gromacs-doc]: http://manual.gromacs.org/documentation/
 [lammps-code]: https://github.com/lammps/lammps
