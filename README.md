@@ -74,7 +74,7 @@
 [avogadro-doc]: https://avogadro.cc/docs/
 [vmd-doc]: http://www.ks.uiuc.edu/Research/vmd/current/docs.html
 [pymol-doc]: http://pymol.sourceforge.net/newman/userman.pdf
-[ovito-doc]: https://pdfs.semanticscholar.org/dd15/3ebd44a07dde2259c22d43bb9cd18db44d2a.pdf
+[ovito-doc]: http://www.ovito.org/manual/
 
 ## Contributing
 
