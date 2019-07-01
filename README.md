@@ -41,6 +41,7 @@
 * [Amber](http://ambermd.org/) - A suite of biomolecular simulation programs. [:book:][amber-doc]
 * [CHARMM](https://www.charmm.org/) - A molecular simulation program with broad application to many-particle systems. [:book:][charmm-doc]
 * [Gromacs](http://www.gromacs.org/) - A molecular dynamics package mainly designed for simulations of proteins, lipids and nucleic acids. [:octocat:][gromacs-code][:book:][gromacs-doc]
+* [HOOMD-Blue](http://glotzerlab.engin.umich.edu/hoomd-blue/) - A general-purpose, python-based, GPU-accelerated molecular dynamics and Monte Carlo simulation framework. [:octocat:][hoomd-code][:book:][hoomd-doc]
 * [LAMMPS](http://lammps.sandia.gov/) - A classical molecular dynamics code, and an acronym for Large-scale Atomic/Molecular Massively Parallel Simulator. [:octocat:][lammps-code][:book:][lammps-doc]
 * [OpenMM](http://openmm.org/) - A toolkit for molecular simulation using high performance GPU code. [:octocat:][openmm-code][:book:][openmm-doc]
 * [Tinker](https://dasher.wustl.edu/tinker/) - A complete and general package for molecular mechanics and dynamics, with some special features for biopolymers. [:octocat:][tinker-code][:book:][tinker-doc]
@@ -49,6 +50,8 @@
 [charmm-doc]: https://www.charmm.org/charmm/documentation/
 [gromacs-code]: https://github.com/gromacs/gromacs
 [gromacs-doc]: http://manual.gromacs.org/documentation/
+[hoomd-code]: https://github.com/glotzerlab/hoomd-blue
+[hoomd-doc]: https://hoomd-blue.readthedocs.io/
 [lammps-code]: https://github.com/lammps/lammps
 [lammps-doc]: http://lammps.sandia.gov/doc/Manual.html
 [openmm-code]:https://github.com/pandegroup/openmm
