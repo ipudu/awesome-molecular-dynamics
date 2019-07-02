@@ -62,9 +62,13 @@
 ## Trajectory Analysis
 
 * [CppTraj](https://github.com/Amber-MD/cpptraj) - Biomolecular simulation trajectory/data analysis.
+* [Freud](https://freud.readthedocs.io/en/stable/) - Parallel, python-based analysis with an emphasis on local particle environments. [:octocat:][freud-code][:book:][freud-doc]
 * [MDAnalysis](https://www.mdanalysis.org/) - An object-oriented Python library to analyze trajectories from molecular dynamics (MD) simulations in many popular formats.
 * [MDTraj](http://mdtraj.org/) - A python library that allows users to manipulate molecular dynamics (MD) trajectories.
 * [PyTraj](https://amber-md.github.io/pytraj/) - A Python front-end of [CppTraj](https://github.com/Amber-MD/cpptraj).
+
+[freud-code]: https://github.com/glotzerlab/freud
+[freud-doc]: https://freud.readthedocs.io/
 
 ## Visualization Tools
 
