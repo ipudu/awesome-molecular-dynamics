@@ -59,6 +59,16 @@
 [tinker-code]: https://github.com/TinkerTools/tinker
 [tinker-doc]:https://dasher.wustl.edu/tinker/downloads/guide.pdf
 
+## MD Frameworks 
+
+* [ASE](https://wiki.fysik.dtu.dk/ase/) - The Atomic Simulation Environment (ASE) is a set of tools and Python modules for setting up, manipulating, running, visualizing and analyzing atomistic simulations. [:octocat:][ase-code]
+* [ipi](http://ipi-code.org) - i-PI: a universal force engine [:octocat:][ipi-code]
+* [pyiron](http://pyiron.org) - pyiron - an integrated development environment (IDE) for computational materials science. [:octocat:][pyiron-code]
+
+[ase-code](https://gitlab.com/ase/ase)
+[ipi-code](https://github.com/i-pi/i-pi)
+[pyiron-code](https://github.com/pyiron/pyiron)
+
 ## Trajectory Analysis
 
 * [CppTraj](https://github.com/Amber-MD/cpptraj) - Biomolecular simulation trajectory/data analysis.
