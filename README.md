@@ -65,9 +65,9 @@
 * [ipi](http://ipi-code.org) - i-PI: a universal force engine [:octocat:][ipi-code]
 * [pyiron](http://pyiron.org) - pyiron - an integrated development environment (IDE) for computational materials science. [:octocat:][pyiron-code]
 
-[ase-code](https://gitlab.com/ase/ase)
-[ipi-code](https://github.com/i-pi/i-pi)
-[pyiron-code](https://github.com/pyiron/pyiron)
+[ase-code]: https://gitlab.com/ase/ase
+[ipi-code]: https://github.com/i-pi/i-pi
+[pyiron-code]: https://github.com/pyiron/pyiron
 
 ## Trajectory Analysis
 
