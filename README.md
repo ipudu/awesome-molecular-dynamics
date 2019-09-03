@@ -77,6 +77,7 @@
 * [Plato](https://plato-draw.readthedocs.io/) - A python library for both interactive and figure-grade visualizations of particle systems. [:octocat:][plato-code][:book:][plato-doc]
 * [PyMOL](https://pymol.org/2/) - A user-sponsored molecular visualization system on an open-source foundation, maintained and distributed by Schrödinger. [:book:][pymol-doc]
 * [OVITO](https://ovito.org/) - OVITO is a scientific visualization and analysis software for atomistic and particle simulation data. [:book:][ovito-doc]
+* [NGLview](https://github.com/arose/nglview) - IPython widget to interactively view molecular structures and trajectories [:book:][nglview-doc]
 
 [avogadro-code]: https://github.com/cryos/avogadro
 [avogadro-doc]: https://avogadro.cc/docs/
@@ -85,6 +86,7 @@
 [plato-doc]: https://plato-draw.readthedocs.io
 [pymol-doc]: http://pymol.sourceforge.net/newman/userman.pdf
 [ovito-doc]: http://www.ovito.org/manual/
+[nglview-doc]: http://arose.github.io/nglview/latest/
 
 ## Contributing
 
