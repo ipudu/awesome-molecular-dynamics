@@ -37,37 +37,34 @@
 * [Molecular Simulations](http://www.pages.drexel.edu/~cfa22/msim/msim.html) - An awesome introduction class to molecular simulations.
 * [Principles of modern molecular simulation methods](https://engineering.ucsb.edu/~shell/che210d/) - A course focuses on molecular simulation concepts, algorithms and tools.
 
-## MD Engines
+## MD Engines/ Frameworks
+
 * [Amber](http://ambermd.org/) - A suite of biomolecular simulation programs. [:book:][amber-doc]
+* [ASE](https://wiki.fysik.dtu.dk/ase/) - The Atomic Simulation Environment (ASE) is a set of tools and Python modules for setting up, manipulating, running, visualizing and analyzing atomistic simulations. [:octocat:][ase-code]
 * [CHARMM](https://www.charmm.org/) - A molecular simulation program with broad application to many-particle systems. [:book:][charmm-doc]
 * [Gromacs](http://www.gromacs.org/) - A molecular dynamics package mainly designed for simulations of proteins, lipids and nucleic acids. [:octocat:][gromacs-code][:book:][gromacs-doc]
 * [HOOMD-Blue](http://glotzerlab.engin.umich.edu/hoomd-blue/) - A general-purpose, python-based, GPU-accelerated molecular dynamics and Monte Carlo simulation framework. [:octocat:][hoomd-code][:book:][hoomd-doc]
+* [ipi](http://ipi-code.org) - i-PI: a universal force engine [:octocat:][ipi-code]
 * [LAMMPS](http://lammps.sandia.gov/) - A classical molecular dynamics code, and an acronym for Large-scale Atomic/Molecular Massively Parallel Simulator. [:octocat:][lammps-code][:book:][lammps-doc]
 * [OpenMM](http://openmm.org/) - A toolkit for molecular simulation using high performance GPU code. [:octocat:][openmm-code][:book:][openmm-doc]
+* [pyiron](http://pyiron.org) - pyiron - an integrated development environment (IDE) for computational materials science. [:octocat:][pyiron-code]
 * [Tinker](https://dasher.wustl.edu/tinker/) - A complete and general package for molecular mechanics and dynamics, with some special features for biopolymers. [:octocat:][tinker-code][:book:][tinker-doc]
 
 [amber-doc]: http://ambermd.org/doc12/Amber16.pdf
+[ase-code]: https://gitlab.com/ase/ase
 [charmm-doc]: https://www.charmm.org/charmm/documentation/
 [gromacs-code]: https://github.com/gromacs/gromacs
 [gromacs-doc]: http://manual.gromacs.org/documentation/
 [hoomd-code]: https://github.com/glotzerlab/hoomd-blue
 [hoomd-doc]: https://hoomd-blue.readthedocs.io/
+[ipi-code]: https://github.com/i-pi/i-pi
 [lammps-code]: https://github.com/lammps/lammps
 [lammps-doc]: http://lammps.sandia.gov/doc/Manual.html
 [openmm-code]:https://github.com/pandegroup/openmm
 [openmm-doc]:http://openmm.org/documentation.html
+[pyiron-code]: https://github.com/pyiron/pyiron
 [tinker-code]: https://github.com/TinkerTools/tinker
 [tinker-doc]:https://dasher.wustl.edu/tinker/downloads/guide.pdf
-
-## MD Frameworks 
-
-* [ASE](https://wiki.fysik.dtu.dk/ase/) - The Atomic Simulation Environment (ASE) is a set of tools and Python modules for setting up, manipulating, running, visualizing and analyzing atomistic simulations. [:octocat:][ase-code]
-* [ipi](http://ipi-code.org) - i-PI: a universal force engine [:octocat:][ipi-code]
-* [pyiron](http://pyiron.org) - pyiron - an integrated development environment (IDE) for computational materials science. [:octocat:][pyiron-code]
-
-[ase-code]: https://gitlab.com/ase/ase
-[ipi-code]: https://github.com/i-pi/i-pi
-[pyiron-code]: https://github.com/pyiron/pyiron
 
 ## Trajectory Analysis
 
