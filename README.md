@@ -73,6 +73,7 @@
 * [MDAnalysis](https://www.mdanalysis.org/) - An object-oriented Python library to analyze trajectories from molecular dynamics (MD) simulations in many popular formats.
 * [MDTraj](http://mdtraj.org/) - A python library that allows users to manipulate molecular dynamics (MD) trajectories.
 * [PyTraj](https://amber-md.github.io/pytraj/) - A Python front-end of [CppTraj](https://github.com/Amber-MD/cpptraj).
+* [d-SEAMS](https://dseams.info) - Graph network based C++ and Lua based nucleation trajectory analysis software.
 
 [freud-code]: https://github.com/glotzerlab/freud
 [freud-doc]: https://freud.readthedocs.io/
